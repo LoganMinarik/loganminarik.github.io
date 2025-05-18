@@ -6,8 +6,12 @@ Hello! My name is **Logan Minarik**,
 Here some tools / languages I use:
 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?)](https://js.org/index.html)
-[![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=Javascript&logoColor=white)](https://js.org/index.html)
+[![Blender](https://img.shields.io/badge/Blender-orange?logo=Blender&logoColor=white)](https://www.blender.org/)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-grey?logo=DaVinci+Resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/studio)
+[![vscode](https://img.shields.io/badge/vscode-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
+
 
 
 Here something about me:
