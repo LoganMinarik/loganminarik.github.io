@@ -12,7 +12,7 @@ Here some tools / languages I use:
 [![vscode](https://img.shields.io/badge/vscode-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![Git](https://img.shields.io/badge/git-orange?logo=git&logoColor=white)](https://git-scm.)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](github.com/loganminarik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LoganMinarik)
 
 
 
