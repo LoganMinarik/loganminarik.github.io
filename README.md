@@ -25,5 +25,6 @@ Here something about me:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](https://loganminarik.github.io/PersonalPage/)
 [![Portfolio](https://img.shields.io/badge/-Games-blue)](https://loganminarik.github.io/PartyPak/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=WhatsApp&logoColor=white)](https://wa.me/12604427899/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-hotpink?logo=Gumroad&logoColor=white)](https://gumroad.com/minariklogan)
 
 
